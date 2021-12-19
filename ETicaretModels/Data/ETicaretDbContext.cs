@@ -11,6 +11,7 @@ namespace ETicaretModels.Data
     {
         public ETicaretDbContext(DbContextOptions<ETicaretDbContext> options) : base(options)
         {
+
         }
     }
 }
